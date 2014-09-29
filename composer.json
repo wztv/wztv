@@ -1,5 +1,5 @@
 {
-  "name" : "wztv_cms",
+  "name" : "wztv\cms",
   "description" : "wztv Application for ZF2",
   "require" : {
     "php" : ">=5.6.0",
